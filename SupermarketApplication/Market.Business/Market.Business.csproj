@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Market.DataAccess\Market.DataAccess.csproj" />
+    <ProjectReference Include="..\Market.Entities\Market.Entities.csproj" />
+    <ProjectReference Include="..\MarketUygulamasi\MarketUygulamasi.Core.csproj" />
+  </ItemGroup>
+
+</Project>

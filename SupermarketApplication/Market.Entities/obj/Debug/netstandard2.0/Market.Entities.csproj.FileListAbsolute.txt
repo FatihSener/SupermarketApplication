@@ -1,0 +1,16 @@
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\Market.Entities.deps.json
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\Market.Entities.dll
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\Market.Entities.pdb
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\MarketUygulamasi.Core.dll
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\MarketUygulamasi.Core.pdb
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\obj\Debug\netstandard2.0\Market.Entities.csprojAssemblyReference.cache
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\obj\Debug\netstandard2.0\Market.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\obj\Debug\netstandard2.0\Market.Entities.AssemblyInfoInputs.cache
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\obj\Debug\netstandard2.0\Market.Entities.AssemblyInfo.cs
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\obj\Debug\netstandard2.0\Market.Entities.csproj.CopyComplete
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\obj\Debug\netstandard2.0\Market.Entities.dll
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\obj\Debug\netstandard2.0\Market.Entities.pdb
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\bjk_f\OneDrive\Masaüstü\MarketUygulamasi\Market.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
